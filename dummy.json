@@ -1,0 +1,23 @@
+[
+    {
+        "kode_lokomotif": "L001",
+        "nama_lokomotif": "Lokomotif Express",
+        "dimensi_lokomotif": { "panjang": 20, "lebar": 4, "tinggi": 6 },
+        "status": "Aktif",
+        "timestamp": "2024-04-30T08:00:00Z"
+    },
+    {
+        "kode_lokomotif": "L002",
+        "nama_lokomotif": "Lokomotif Cepat",
+        "dimensi_lokomotif": { "panjang": 18, "lebar": 3, "tinggi": 5 },
+        "status": "Aktif",
+        "timestamp": "2024-04-30T09:00:00Z"
+    },
+    {
+        "kode_lokomotif": "L003",
+        "nama_lokomotif": "Lokomotif Cargo",
+        "dimensi_lokomotif": { "panjang": 25, "lebar": 5, "tinggi": 7 },
+        "status": "Tidak Aktif",
+        "timestamp": "2024-04-30T10:00:00Z"
+    }
+]
